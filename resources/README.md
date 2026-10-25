@@ -31,7 +31,7 @@ The interface uses a **red-and-black glassmorphism theme**, with translucent pan
 
 The student listing is intended to display each record with its student ID, name, email, course, year level, and available actions.
 
-![Student records page](resources/docs/screenshots/my-record-final.png)
+![Student records page](docs/screenshots/my-record-final.png)
 
 ### Email OTP verification
 
